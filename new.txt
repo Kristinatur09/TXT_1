@@ -1,0 +1,4 @@
+fullname - Tur Kristina Alexandrovna
+age - 29 y.o
+pets - 2 pets (cat and dog)
+expected salsry - 2000$
